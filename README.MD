@@ -40,7 +40,7 @@ This is an **ultra-lightweight Docker-based DDNS agent** that automatically upda
 # 🧾 RECORDS format
 
 ```bash
-RECORDS="id1:home.example.com,id2:jellyfin.example.com,id3:vpn.example.com"
+RECORDS="home.example.com,jellyfin.example.com,vpn.example.com"
 ```
 ```bash
 docker run -d \
